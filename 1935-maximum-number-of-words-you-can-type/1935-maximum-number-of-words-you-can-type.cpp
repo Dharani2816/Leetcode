@@ -5,28 +5,26 @@ public:
         for (int i = 0; i < brokenLetters.size(); i++) {
             a[brokenLetters[i]] = 1;
         }
-        vector<string> res;
-        string curr = "";
-        for (int i = 0; i < text.size(); i++) {
-            if (text[i] == ' ') {
-                res.push_back(curr);
-                curr = "";
-            } else {
-                curr += text[i];
-            }
-        }
-        res.push_back(curr);
+        int flag = 0;
         int count = 0;
-        for (int i = 0; i < res.size(); i++) {
-            for (int j = 0; j < res[i].size(); j++) {
-                if (a[res[i][j]] == 1) {
-                    count++;
-                    break;
-                }
+        for (int i = 0; i < text.size(); i++) {
+            if (a[text[i]] == 1 && flag == 0) {
+                count++;
+                flag = 1;
+            } 
+            if(text[i] == ' '){
+                flag = 0;
             }
         }
+        int wordCount = 0;
+        for(int i=0;i<text.size();i++){
+            if(text[i] == ' '){
+                wordCount++;
+            }
+        }
+        wordCount++;
 
-        int ans = res.size() - count;
+        int ans = wordCount - count;
         return ans;
     }
 };
