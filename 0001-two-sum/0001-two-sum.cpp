@@ -1,18 +1,18 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        vector<int> a;
-        for(int i = 0; i < nums.size(); i++) {
-            for(int j = 1; i + j < nums.size(); j++) { // Corrected inner loop condition
-                int dk = 0;
-                dk = nums[i] + nums[i + j];
-                if(dk == target) {
-                    a.push_back(i);
-                    a.push_back(i + j);
-                    break;
+        vector<int>res;
+        for(int i=0;i<nums.size();i++){
+            auto it = find(nums.begin(),nums.end(),target - nums[i]);
+            if(it != nums.end()){
+                int idx  = it-nums.begin();
+                if(idx != i){
+                res.push_back(i);
+                res.push_back(idx);
+                break;
                 }
             }
         }
-        return a;
+        return res;
     }
 };
