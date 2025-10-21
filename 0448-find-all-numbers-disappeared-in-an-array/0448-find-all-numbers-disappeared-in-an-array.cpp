@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> findDisappearedNumbers(vector<int>& nums) {
-    vector<int>a(nums.size()+1);
+    int *a = new int[nums.size()+1];
     vector<int>result;
     for(int i=0;i<nums.size();i++){
             a[nums[i]] = 1;
@@ -11,6 +11,7 @@ public:
             result.push_back(i);
         }
     }
+    delete[] a;
      return result;
     }
 };
