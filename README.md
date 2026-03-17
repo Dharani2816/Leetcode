@@ -68,9 +68,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/Dharani2816/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Dharani2816/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/Dharani2816/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Dharani2816/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/Dharani2816/Leetcode/tree/main/0100-same-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/Dharani2816/Leetcode/tree/main/0100-same-tree/) | Easy |
 <!---LeetCode Topics End-->
