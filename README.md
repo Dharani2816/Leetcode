@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Dharani2816/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0455-assign-cookies](https://github.com/Dharani2816/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Dharani2816/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Two Pointers
@@ -91,9 +92,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Dharani2816/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0148-sort-list](https://github.com/Dharani2816/Leetcode/tree/main/0148-sort-list/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/Dharani2816/Leetcode/tree/main/0148-sort-list/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Dharani2816/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
