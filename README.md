@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Dharani2816/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Dharani2816/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Dharani2816/Leetcode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0917-reverse-only-letters](https://github.com/Dharani2816/Leetcode/tree/main/0917-reverse-only-letters/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Dharani2816/Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dharani2816/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dharani2816/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0242-valid-anagram](https://github.com/Dharani2816/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Dharani2816/Leetcode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dharani2816/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -110,4 +112,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Dharani2816/Leetcode/tree/main/0050-powx-n/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Dharani2816/Leetcode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 <!---LeetCode Topics End-->
