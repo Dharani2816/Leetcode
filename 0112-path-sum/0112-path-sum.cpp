@@ -16,7 +16,6 @@ public:
     void preorder(TreeNode* root,int tsum){
         if(root != nullptr){
             sum += root->val;
-            cout<<sum<<endl;
             if(!root->left && !root->right){
                 if(tsum == sum){
                     ans = true;
