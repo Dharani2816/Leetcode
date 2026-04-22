@@ -25,9 +25,6 @@ public:
         int maxFreq = 0;
         int freq = 0;
         int curr = dfs[0], prev = dfs[0];
-        for(int i:dfs){
-            cout<<i<<endl;
-        }
         vector<int> res;
         for (int i = 0; i < dfs.size(); i++) {
             curr = dfs[i];
