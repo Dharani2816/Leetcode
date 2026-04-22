@@ -6,33 +6,46 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
+ * right(right) {}
  * };
  */
 class Solution {
 public:
-    map<int,int>freq; 
-    void dfs(TreeNode* root){
-        if(root){
-            freq[root->val]++;
-            dfs(root->left);
-            dfs(root->right);
+    vector<int> dfs;
+    void inorder(TreeNode* root) {
+        if (root) {
+            inorder(root->left);
+            dfs.push_back(root->val);
+            inorder(root->right);
         }
     }
     vector<int> findMode(TreeNode* root) {
-       dfs(root);
-       int maxFreq = 0;
-       for(auto it = freq.begin();it!=freq.end();it++){
-            if(it->second > maxFreq){
-                maxFreq = it->second;
+        inorder(root);
+        int maxFreq = 0;
+        int freq = 0;
+        int curr = dfs[0], prev = dfs[0];
+        vector<int> res;
+        for (int i = 0; i < dfs.size(); i++) {
+            curr = dfs[i];
+            if (prev != curr) {
+                if (freq > maxFreq) {
+                    res.clear();
+                    res.push_back(prev);
+                } else if (freq == maxFreq) {
+                    res.push_back(prev);
+                }
+                freq = 0;
             }
-       }
-       vector<int>res;
-       for(auto it = freq.begin();it!=freq.end();it++){
-            if(it->second == maxFreq){
-                res.push_back(it->first);
-            }
-       }
-       return res;
+            freq++;
+            prev = curr;
+        }
+        if (freq > maxFreq) {
+            res.clear();
+            res.push_back(prev);
+        } else if (freq == maxFreq) {
+            res.push_back(prev);
+        }
+        return res;
     }
 };
