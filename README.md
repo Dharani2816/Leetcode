@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Dharani2816/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Dharani2816/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Dharani2816/Leetcode/tree/master/0066-plus-one) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dharani2816/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Dharani2816/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dharani2816/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Dharani2816/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Bit Manipulation
