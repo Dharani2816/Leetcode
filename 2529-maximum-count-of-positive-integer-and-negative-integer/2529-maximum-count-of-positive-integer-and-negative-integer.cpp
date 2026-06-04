@@ -15,9 +15,6 @@ public:
                 low = mid+1;
             }
         }
-        // if(nums[mid] < 0){
-        //     negIndex = mid;
-        // }
         low = 0;
         high = nums.size()-1;    int posIndex = nums.size();
         while(low <= high){
@@ -31,8 +28,6 @@ public:
                 high = mid-1;
             }
         }
-        // if(nums[mid] > 0)
-        //     posIndex = mid;
         cout<<negIndex<<" "<<posIndex<<endl;
         int pos = (nums.size()-posIndex);
         int neg = negIndex+1;
