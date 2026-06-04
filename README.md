@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Dharani2816/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Dharani2816/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Dharani2816/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [2951-find-the-peaks](https://github.com/Dharani2816/Leetcode/tree/master/2951-find-the-peaks) |
 ## Two Pointers
 |  |
 | ------- |
@@ -150,4 +151,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Dharani2816/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/Dharani2816/Leetcode/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
