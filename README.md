@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/Dharani2816/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Dharani2816/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/Dharani2816/Leetcode/tree/master/0066-plus-one) |
+| [0162-find-peak-element](https://github.com/Dharani2816/Leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dharani2816/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0455-assign-cookies](https://github.com/Dharani2816/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Dharani2816/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Dharani2816/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Dharani2816/Leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dharani2816/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Dharani2816/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dharani2816/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
