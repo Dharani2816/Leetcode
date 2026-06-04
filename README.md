@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Dharani2816/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Dharani2816/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dharani2816/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Dharani2816/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Dharani2816/Leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2951-find-the-peaks](https://github.com/Dharani2816/Leetcode/tree/master/2951-find-the-peaks) |
 ## Two Pointers
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Dharani2816/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Dharani2816/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dharani2816/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Dharani2816/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
