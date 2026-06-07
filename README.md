@@ -159,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Dharani2816/Leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Dharani2816/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/Dharani2816/Leetcode/tree/master/0066-plus-one) |
 | [1903-largest-odd-number-in-string](https://github.com/Dharani2816/Leetcode/tree/master/1903-largest-odd-number-in-string) |
