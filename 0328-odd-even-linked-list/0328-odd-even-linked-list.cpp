@@ -10,48 +10,40 @@
  */
 class Solution {
 public:
-    // void insert(ListNode* l,ListNode* lhead,ListNode* node){
-    //     if(l == nullptr){
-    //         l = node;
-    //         lhead = node;
-    //     }
-    //     else{
-    //         l->next = node;
-    //         l = node;
-    //     }
-    // }
+    void insertLL(ListNode*& head,ListNode*& n,int num){
+        ListNode*nn = new ListNode(num);
+        if(!head){
+            head = nn;
+            n = nn;
+        }
+        else{
+            n->next = nn;
+            n = nn; 
+        }
+    }
     ListNode* oddEvenList(ListNode* head) {
-       ListNode* odd = nullptr;
-       ListNode* even = nullptr;
-       ListNode* oddHead = nullptr;
-       ListNode* evenHead = nullptr;
-       int i = 1;
-       for(ListNode* temp = head;temp!=nullptr;temp=temp->next){
-        ListNode* n = new ListNode(temp->val);
-        if(i%2 == 1){
-            if(odd == nullptr){
-            odd = n;
-            oddHead = n;
+        if(!head){
+            return nullptr;
         }
-        else{
-            odd->next = n;
-            odd = n;
+        else if(!head->next || !head->next->next){
+            return head;
         }
+        ListNode* oddHead = nullptr;ListNode* evenHead = nullptr;
+        ListNode* odd = nullptr;ListNode* even = nullptr;
+        ListNode* temp = head;
+        int i = 1;
+        while(temp){
+            if(i%2 != 0){
+                insertLL(oddHead,odd,temp->val);
+            }
+            else{
+                insertLL(evenHead,even,temp->val);
+            }
+            temp = temp->next;
+            i++;
         }
-        else{
-            if(even == nullptr){
-            even = n;
-            evenHead = n;
-        }
-        else{
-            even->next = n;
-            even = n;
-        }
-        }
-        i++;
-       }
-       if(odd && evenHead)
+        if(odd)
             odd->next = evenHead;
-       return oddHead; 
+        return oddHead;
     }
 };
