@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/Dharani2816/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0917-reverse-only-letters](https://github.com/Dharani2816/Leetcode/tree/main/0917-reverse-only-letters/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Dharani2816/Leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dharani2816/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/Dharani2816/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/Dharani2816/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Dharani2816/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Dharani2816/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
