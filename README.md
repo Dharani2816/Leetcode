@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0148-sort-list](https://github.com/Dharani2816/Leetcode/tree/main/0148-sort-list/) | Medium |
 | [0242-valid-anagram](https://github.com/Dharani2816/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/Dharani2816/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Dharani2816/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Dharani2816/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## String
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/Dharani2816/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Dharani2816/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0409-longest-palindrome](https://github.com/Dharani2816/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/Dharani2816/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Dharani2816/Leetcode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Dharani2816/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Dharani2816/Leetcode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
@@ -88,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/Dharani2816/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Dharani2816/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0409-longest-palindrome](https://github.com/Dharani2816/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/Dharani2816/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Dharani2816/Leetcode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Dharani2816/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dharani2816/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -183,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Dharani2816/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Dharani2816/Leetcode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Dharani2816/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum
@@ -214,4 +218,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Dharani2816/Leetcode/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Dharani2816/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Dharani2816/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
