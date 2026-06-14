@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Dharani2816/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [1763-longest-nice-substring](https://github.com/Dharani2816/Leetcode/tree/master/1763-longest-nice-substring) |
+| [3950-exactly-one-consecutive-set-bits-pair](https://github.com/Dharani2816/Leetcode/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Dharani2816/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Tree
 |  |
