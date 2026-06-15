@@ -1,7 +1,7 @@
 class Solution {
 public:
     int firstUniqChar(string s) {
-        map<char,int>freq;
+        int freq[123] = {0};
         for(int i=0;i<s.size();i++){
             freq[s[i]]++;
         }
