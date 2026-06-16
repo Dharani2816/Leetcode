@@ -13,7 +13,6 @@ public:
     void generateP(int index,string a,int n,vector<string>&result){
         if(index >= n) {
             if(isWellFormed(a)){
-                cout<<a<<endl;
                 result.push_back(a);
             }
             return;
