@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Dharani2816/Leetcode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Dharani2816/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Dharani2816/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Dharani2816/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Dharani2816/Leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Dharani2816/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/Dharani2816/Leetcode/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Dharani2816/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -50,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Dharani2816/Leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Dharani2816/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Dharani2816/Leetcode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Dharani2816/Leetcode/tree/master/0179-largest-number) |
