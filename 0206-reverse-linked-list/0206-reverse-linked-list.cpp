@@ -11,18 +11,15 @@
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
-        stack<int>s;
-        ListNode* temp = head;
-        while(temp!=nullptr){
-            s.push(temp->val);
-            temp = temp -> next;
+        //use three pointers curr temp and prev make curr->next to prev temp->next to curr & curr to temp atlast prev will be the new head
+        ListNode* curr = head;
+        ListNode* prev  = nullptr;
+        while(curr){
+            ListNode* temp = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = temp;
         }
-        ListNode* temp1 = head;
-        while(temp1 != nullptr && !s.empty()){
-            temp1->val = s.top();
-            s.pop();
-            temp1 = temp1 -> next;
-        }
-        return head;
+        return prev; 
     }
 };
