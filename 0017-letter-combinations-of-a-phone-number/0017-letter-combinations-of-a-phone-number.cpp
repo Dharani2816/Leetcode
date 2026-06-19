@@ -2,7 +2,6 @@ class Solution {
 public:
     void generate(int index,string b,string &digits,unordered_map<char,string>&a,vector<string>&res){
         if(index >= digits.size()){
-            cout<<b<<endl;
             res.push_back(b);
             return;
         }
