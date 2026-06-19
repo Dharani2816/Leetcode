@@ -15,7 +15,6 @@ public:
        vector<int>a;
        sort(nums.begin(),nums.end());
        generate(0,nums.size(),nums,a,result);
-      // result.erase(unique(result.begin(),result.end()),result.end());
        return result; 
     }
 };
