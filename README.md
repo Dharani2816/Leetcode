@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Dharani2816/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Dharani2816/Leetcode/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Dharani2816/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0342-power-of-four](https://github.com/Dharani2816/Leetcode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Dharani2816/Leetcode/tree/master/0645-set-mismatch) |
 | [1763-longest-nice-substring](https://github.com/Dharani2816/Leetcode/tree/master/1763-longest-nice-substring) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/Dharani2816/Leetcode/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/Dharani2816/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/Dharani2816/Leetcode/tree/master/0066-plus-one) |
 | [0326-power-of-three](https://github.com/Dharani2816/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Dharani2816/Leetcode/tree/master/0342-power-of-four) |
 | [1903-largest-odd-number-in-string](https://github.com/Dharani2816/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Dharani2816/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Recursion
@@ -261,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0203-remove-linked-list-elements](https://github.com/Dharani2816/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Dharani2816/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Dharani2816/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Dharani2816/Leetcode/tree/master/0342-power-of-four) |
 ## Counting
 |  |
 | ------- |
