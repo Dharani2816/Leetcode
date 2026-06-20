@@ -1,19 +1,18 @@
 class Solution {
 public:
-    vector<int> countBits(int n) {
-        vector<int>res;
+    int setBits(int n){
         int count = 0;
-        for(int i=0;i<=n;i++){
-            int j = i;
-            while(j != 0){
-                if(j % 2 == 1){
-                    count++;
-                }
-                j = j / 2;
-            }
-            res.push_back(count);
-            count = 0;
+        while(n != 0){
+            count += (n & 1);
+            n = n >> 1;
         }
-        return res;
+        return count;
+    }
+    vector<int> countBits(int n) {
+        vector<int>result;
+        for(int i=0;i<=n;i++){
+            result.push_back(setBits(i));
+        }
+        return result;
     }
 };
