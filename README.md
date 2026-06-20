@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/Dharani2816/Leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Dharani2816/Leetcode/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Dharani2816/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0338-counting-bits](https://github.com/Dharani2816/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Dharani2816/Leetcode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Dharani2816/Leetcode/tree/master/0645-set-mismatch) |
 | [1763-longest-nice-substring](https://github.com/Dharani2816/Leetcode/tree/master/1763-longest-nice-substring) |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/Dharani2816/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Dharani2816/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Dharani2816/Leetcode/tree/master/0055-jump-game) |
+| [0338-counting-bits](https://github.com/Dharani2816/Leetcode/tree/master/0338-counting-bits) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Dharani2816/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Math
 |  |
