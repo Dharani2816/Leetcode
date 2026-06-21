@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0461-hamming-distance](https://github.com/Dharani2816/Leetcode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Dharani2816/Leetcode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/Dharani2816/Leetcode/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Dharani2816/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1763-longest-nice-substring](https://github.com/Dharani2816/Leetcode/tree/master/1763-longest-nice-substring) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Dharani2816/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/Dharani2816/Leetcode/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
