@@ -261,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Dharani2816/Leetcode/tree/master/0066-plus-one) |
 | [0326-power-of-three](https://github.com/Dharani2816/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Dharani2816/Leetcode/tree/master/0342-power-of-four) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Dharani2816/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1903-largest-odd-number-in-string](https://github.com/Dharani2816/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Dharani2816/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Recursion
