@@ -2,15 +2,10 @@ class Solution {
 public:
     int countOdds(int low, int high) {
         int count = 0;
-        for(int i=low;i<=high;){
-            if(i & 1){
-                count++;
-                i+=2;
-            }
-            else{
-                i++;
-            }
-        }
+        if(high & 1) count++;
+        int num1 = low >> 1;
+        int num2 = high >> 1;
+        count += (num2 - num1);
         return count;
     }
 };
