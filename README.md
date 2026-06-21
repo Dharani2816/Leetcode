@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/Dharani2816/Leetcode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/Dharani2816/Leetcode/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/Dharani2816/Leetcode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Dharani2816/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Dharani2816/Leetcode/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dharani2816/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Dharani2816/Leetcode/tree/master/0216-combination-sum-iii) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0056-merge-intervals](https://github.com/Dharani2816/Leetcode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Dharani2816/Leetcode/tree/main/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/Dharani2816/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Dharani2816/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Dharani2816/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Dharani2816/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dharani2816/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0142-linked-list-cycle-ii](https://github.com/Dharani2816/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dharani2816/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0169-majority-element](https://github.com/Dharani2816/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Dharani2816/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Dharani2816/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Dharani2816/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -238,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/Dharani2816/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0148-sort-list](https://github.com/Dharani2816/Leetcode/tree/main/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/Dharani2816/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Dharani2816/Leetcode/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dharani2816/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1763-longest-nice-substring](https://github.com/Dharani2816/Leetcode/tree/master/1763-longest-nice-substring) |
@@ -278,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Dharani2816/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dharani2816/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Dharani2816/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Dharani2816/Leetcode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
