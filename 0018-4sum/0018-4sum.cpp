@@ -2,11 +2,15 @@ class Solution {
 public:
     vector<vector<int>> fourSum(vector<int>& nums, int target) {
         sort(nums.begin(), nums.end());
-        set<vector<int>> result;
+        vector<vector<int>> result;
+        int prevI = INT_MIN;
         for (int i = 0; i < nums.size(); i++) {
+            if(nums[i] == prevI) continue;
+            int prevJ = INT_MIN;
             for (int j = i + 1; j < nums.size(); j++) {
-               long long complement = target - nums[i];
-               complement -= nums[j];
+                if(nums[j] == prevJ) continue;
+                long long complement = target - nums[i];
+                complement -= nums[j];
                 int left = j + 1, right = nums.size() - 1;
                 while (left < right) {
                     if (nums[left] + nums[right] < complement) {
@@ -14,14 +18,22 @@ public:
                     } else if (nums[left] + nums[right] > complement) {
                         right--;
                     } else {
-                        result.insert(
+                        result.push_back(
                             {nums[i], nums[j], nums[left], nums[right]});
-                        left++;
+                        int prevLeft = nums[left];
+                        int prevRight = nums[right];
+                        while (left < nums.size() && nums[left] == prevLeft) {
+                            left++;
+                        }
+                        while (right >= j && nums[right] == prevRight) {
+                            right--;
+                        }
                     }
                 }
+                prevJ = nums[j];
             }
+            prevI = nums[i];
         }
-        vector<vector<int>>res(result.begin(),result.end());
-        return res;
+        return result;
     }
 };
