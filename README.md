@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dharani2816/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Dharani2816/Leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Dharani2816/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Dharani2816/Leetcode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/Dharani2816/Leetcode/tree/master/0045-jump-game-ii) |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dharani2816/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Dharani2816/Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Dharani2816/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/Dharani2816/Leetcode/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Dharani2816/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Dharani2816/Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Dharani2816/Leetcode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Dharani2816/Leetcode/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Dharani2816/Leetcode/tree/master/0169-majority-element) |
