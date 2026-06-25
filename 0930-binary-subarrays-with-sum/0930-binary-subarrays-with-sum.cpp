@@ -21,7 +21,6 @@ public:
             }
             count2+=(right-left)+1;
         }
-        cout<<count1<<" "<<count2<<endl;
         return (count2-count1);
     }
 };
