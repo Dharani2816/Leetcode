@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dharani2816/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dharani2816/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/Dharani2816/Leetcode/tree/master/0860-lemonade-change) |
+| [0912-sort-an-array](https://github.com/Dharani2816/Leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Dharani2816/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/Dharani2816/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dharani2816/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Dharani2816/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0561-array-partition](https://github.com/Dharani2816/Leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Dharani2816/Leetcode/tree/master/0645-set-mismatch) |
+| [0912-sort-an-array](https://github.com/Dharani2816/Leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Dharani2816/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Dharani2816/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Dharani2816/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -277,12 +279,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0190-reverse-bits](https://github.com/Dharani2816/Leetcode/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dharani2816/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Dharani2816/Leetcode/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/Dharani2816/Leetcode/tree/master/0912-sort-an-array) |
 | [1763-longest-nice-substring](https://github.com/Dharani2816/Leetcode/tree/master/1763-longest-nice-substring) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Dharani2816/Leetcode/tree/main/0148-sort-list/) | Medium |
 | [0493-reverse-pairs](https://github.com/Dharani2816/Leetcode/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/Dharani2816/Leetcode/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -373,14 +377,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Dharani2816/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/Dharani2816/Leetcode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Dharani2816/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/Dharani2816/Leetcode/tree/master/0912-sort-an-array) |
 ## Counting Sort
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Dharani2816/Leetcode/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/Dharani2816/Leetcode/tree/master/0912-sort-an-array) |
 ## Design
 |  |
 | ------- |
@@ -403,4 +410,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Dharani2816/Leetcode/tree/master/0493-reverse-pairs) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Dharani2816/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
