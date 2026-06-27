@@ -1,12 +1,13 @@
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
-        unordered_map<int,int>hash;
-        for(int i=0;i<nums.size();i++){
-            if(hash[nums[i]] == 1){
-                return true;
-            }
-            hash[nums[i]]++;
+        int j=1;
+        sort(nums.begin(),nums.end());
+        for(int i=0;i<nums.size()-1;i++){
+                if(nums[i] == nums[j]){
+                    return true;
+                }
+                j++;
         }
         return false;
     }
