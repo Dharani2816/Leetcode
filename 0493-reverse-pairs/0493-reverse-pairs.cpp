@@ -7,7 +7,6 @@ public:
             long long  b = (long long)nums[j] * 2; 
             if(a > b){
                 count+=(mid-i)+1;
-                // cout<<a<<" "<<b<<" "<<count<<endl;
                 j++;
             }
             else{
