@@ -10,18 +10,59 @@
  */
 class Solution {
 public:
+    void insert(ListNode*& head, ListNode*& n, int num) {
+        ListNode* nn = new ListNode(num);
+        if (!head) {
+            head = nn;
+            n = nn;
+        } else {
+            n->next = nn;
+            n = nn;
+        }
+    }
+    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
+        ListNode* l1 = list1;
+        ListNode* l2 = list2;
+        ListNode* resultHead = nullptr;
+        ListNode* result = nullptr;
+        while (l1 && l2) {
+            if (l1->val < l2->val) {
+                insert(resultHead, result, l1->val);
+                l1 = l1->next;
+            } else {
+                insert(resultHead, result, l2->val);
+                l2 = l2->next;
+            }
+        }
+        while (l1) {
+            insert(resultHead, result, l1->val);
+            l1 = l1->next;
+        }
+        while (l2) {
+            insert(resultHead, result, l2->val);
+            l2 = l2->next;
+        }
+        return resultHead;
+    }
+    ListNode* middle(ListNode* l){
+        ListNode* slow = l;ListNode* fast = l;
+        while(fast->next && fast->next->next){
+            slow = slow ->next;
+            fast = fast->next->next;
+        }
+        return slow;
+    }
+    void mergeSort(ListNode*&head){
+        if(!head || !head->next) return;
+        ListNode* middleNode = middle(head);
+        ListNode* middleNext = middleNode->next;
+        middleNode->next = nullptr;
+        mergeSort(head);
+        mergeSort(middleNext);
+        head = mergeTwoLists(head,middleNext);
+    }
     ListNode* sortList(ListNode* head) {
-        vector<int>v;
-        for(ListNode* temp = head;temp;temp=temp->next){
-            v.push_back(temp->val);
-        }
-        sort(v.begin(),v.end());
-        ListNode* temp = head;
-        for(int i =0;i<v.size();i++){
-            temp->val = v[i];
-            if(temp)
-                temp = temp -> next;
-        }
+        mergeSort(head);
         return head;
     }
 };
