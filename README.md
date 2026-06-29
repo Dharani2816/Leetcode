@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/Dharani2816/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Dharani2816/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Dharani2816/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Dharani2816/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Dharani2816/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Dharani2816/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1710-maximum-units-on-a-truck](https://github.com/Dharani2816/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/Dharani2816/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Dharani2816/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dharani2816/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Dharani2816/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1763-longest-nice-substring](https://github.com/Dharani2816/Leetcode/tree/master/1763-longest-nice-substring) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Dharani2816/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Dharani2816/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -364,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/Dharani2816/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Dharani2816/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Dharani2816/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Dharani2816/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Dharani2816/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1991-find-the-middle-index-in-array](https://github.com/Dharani2816/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Binary Search Tree
