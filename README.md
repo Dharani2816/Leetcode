@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0884-uncommon-words-from-two-sentences](https://github.com/Dharani2816/Leetcode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0917-reverse-only-letters](https://github.com/Dharani2816/Leetcode/tree/main/0917-reverse-only-letters/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Dharani2816/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dharani2816/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Dharani2816/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dharani2816/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1763-longest-nice-substring](https://github.com/Dharani2816/Leetcode/tree/master/1763-longest-nice-substring) |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0930-binary-subarrays-with-sum](https://github.com/Dharani2816/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dharani2816/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Dharani2816/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dharani2816/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1763-longest-nice-substring](https://github.com/Dharani2816/Leetcode/tree/master/1763-longest-nice-substring) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Dharani2816/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Dharani2816/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0884-uncommon-words-from-two-sentences](https://github.com/Dharani2816/Leetcode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/Dharani2816/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Dharani2816/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dharani2816/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Dharani2816/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1763-longest-nice-substring](https://github.com/Dharani2816/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Dharani2816/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
