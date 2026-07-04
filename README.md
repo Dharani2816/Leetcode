@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Dharani2816/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Dharani2816/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2951-find-the-peaks](https://github.com/Dharani2816/Leetcode/tree/master/2951-find-the-peaks) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Dharani2816/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3477-fruits-into-baskets-ii](https://github.com/Dharani2816/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Dharani2816/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Dharani2816/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dharani2816/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/Dharani2816/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -382,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Dharani2816/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Dharani2816/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1991-find-the-middle-index-in-array](https://github.com/Dharani2816/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Dharani2816/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Binary Search Tree
 |  |
 | ------- |
