@@ -246,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Dharani2816/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Dharani2816/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dharani2816/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0441-arranging-coins](https://github.com/Dharani2816/Leetcode/tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/Dharani2816/Leetcode/tree/master/0493-reverse-pairs) |
 | [0713-subarray-product-less-than-k](https://github.com/Dharani2816/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dharani2816/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -341,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Dharani2816/Leetcode/tree/master/0066-plus-one) |
 | [0326-power-of-three](https://github.com/Dharani2816/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Dharani2816/Leetcode/tree/master/0342-power-of-four) |
+| [0441-arranging-coins](https://github.com/Dharani2816/Leetcode/tree/master/0441-arranging-coins) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Dharani2816/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dharani2816/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Dharani2816/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
