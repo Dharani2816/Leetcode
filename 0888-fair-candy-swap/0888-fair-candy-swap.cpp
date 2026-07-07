@@ -15,13 +15,21 @@ public:
         }
 
         for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-               int a = (total1 - aliceSizes[i]) +bobSizes[j];
-                int b = (total2 - bobSizes[j])+aliceSizes[i];
-                if(a == b){
+            int left = 0,right = n-1;
+            while(left <= right){
+                int mid = (left+right)/2;
+                double a = ((double)total2 - (double)total1) + (double)2*aliceSizes[i];
+                a /= 2.0;
+                if((double)bobSizes[mid] == a){
                     res.push_back(aliceSizes[i]);
-                    res.push_back(bobSizes[j]);
+                    res.push_back(bobSizes[mid]);
                     return res;
+                }
+                else if(double(bobSizes[mid]) < a){
+                    left = mid+1;
+                }
+                else{
+                    right = mid-1;
                 }
             }
         }
