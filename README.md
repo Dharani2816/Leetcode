@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Dharani2816/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1089-duplicate-zeros](https://github.com/Dharani2816/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Dharani2816/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Dharani2816/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Dharani2816/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Dharani2816/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Dharani2816/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/Dharani2816/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/Dharani2816/Leetcode/tree/master/0888-fair-candy-swap) |
 | [1004-max-consecutive-ones-iii](https://github.com/Dharani2816/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Dharani2816/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Dharani2816/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/Dharani2816/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Bit Manipulation
