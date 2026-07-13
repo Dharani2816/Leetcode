@@ -418,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Dharani2816/Leetcode/tree/master/1291-sequential-digits) |
 | [2951-find-the-peaks](https://github.com/Dharani2816/Leetcode/tree/master/2951-find-the-peaks) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Dharani2816/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Segment Tree
