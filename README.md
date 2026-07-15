@@ -377,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1903-largest-odd-number-in-string](https://github.com/Dharani2816/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Dharani2816/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Dharani2816/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Dharani2816/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -500,4 +501,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Dharani2816/Leetcode/tree/master/0187-repeated-dna-sequences) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Dharani2816/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
