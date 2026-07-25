@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/Dharani2816/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Dharani2816/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Dharani2816/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Dharani2816/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Dharani2816/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Dharani2816/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Dharani2816/Leetcode/tree/master/0054-spiral-matrix) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Dharani2816/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Dharani2816/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Dharani2816/Leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Dharani2816/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Dharani2816/Leetcode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Dharani2816/Leetcode/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Dharani2816/Leetcode/tree/master/0169-majority-element) |
@@ -153,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/Dharani2816/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dharani2816/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Dharani2816/Leetcode/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/Dharani2816/Leetcode/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/Dharani2816/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/Dharani2816/Leetcode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Dharani2816/Leetcode/tree/master/0187-repeated-dna-sequences) |
@@ -226,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dharani2816/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dharani2816/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Dharani2816/Leetcode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Dharani2816/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Dharani2816/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/Dharani2816/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dharani2816/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
