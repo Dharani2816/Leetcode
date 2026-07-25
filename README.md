@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dharani2816/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/Dharani2816/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0493-reverse-pairs](https://github.com/Dharani2816/Leetcode/tree/master/0493-reverse-pairs) |
+| [0503-next-greater-element-ii](https://github.com/Dharani2816/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Dharani2816/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Dharani2816/Leetcode/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/Dharani2816/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0143-reorder-list](https://github.com/Dharani2816/Leetcode/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/Dharani2816/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0503-next-greater-element-ii](https://github.com/Dharani2816/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Dharani2816/Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Dharani2816/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Dharani2816/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -523,5 +525,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Dharani2816/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Dharani2816/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
