@@ -335,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/Dharani2816/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Dharani2816/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Dharani2816/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Dharani2816/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -346,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/Dharani2816/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Dharani2816/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Dharani2816/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Dharani2816/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -356,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0129-sum-root-to-leaf-numbers](https://github.com/Dharani2816/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Dharani2816/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Dharani2816/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0572-subtree-of-another-tree](https://github.com/Dharani2816/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -487,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Dharani2816/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/Dharani2816/Leetcode/tree/master/0796-rotate-string) |
 ## Heap (Priority Queue)
 |  |
@@ -545,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Dharani2816/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0572-subtree-of-another-tree](https://github.com/Dharani2816/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Number Theory
 |  |
 | ------- |
