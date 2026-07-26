@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Dharani2816/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0493-reverse-pairs](https://github.com/Dharani2816/Leetcode/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/Dharani2816/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/Dharani2816/Leetcode/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/Dharani2816/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Dharani2816/Leetcode/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/Dharani2816/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dharani2816/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Dharani2816/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Dharani2816/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0506-relative-ranks](https://github.com/Dharani2816/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Dharani2816/Leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Dharani2816/Leetcode/tree/master/0645-set-mismatch) |
 | [0888-fair-candy-swap](https://github.com/Dharani2816/Leetcode/tree/master/0888-fair-candy-swap) |
@@ -482,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Dharani2816/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dharani2816/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Dharani2816/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/Dharani2816/Leetcode/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/Dharani2816/Leetcode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
