@@ -331,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/Dharani2816/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dharani2816/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Dharani2816/Leetcode/tree/main/0112-path-sum/) | Easy |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Dharani2816/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/Dharani2816/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Dharani2816/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Dharani2816/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
@@ -341,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/Dharani2816/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dharani2816/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Dharani2816/Leetcode/tree/main/0112-path-sum/) | Easy |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Dharani2816/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/Dharani2816/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Dharani2816/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Dharani2816/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
@@ -351,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/Dharani2816/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Dharani2816/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Dharani2816/Leetcode/tree/main/0112-path-sum/) | Easy |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Dharani2816/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Dharani2816/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Dharani2816/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 ## Breadth-First Search
