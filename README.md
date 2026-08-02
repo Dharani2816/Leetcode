@@ -343,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/Dharani2816/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Dharani2816/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Dharani2816/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Dharani2816/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Dharani2816/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Dharani2816/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Dharani2816/Leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -361,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/Dharani2816/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Dharani2816/Leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Dharani2816/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Dharani2816/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Dharani2816/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Dharani2816/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Dharani2816/Leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -378,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0129-sum-root-to-leaf-numbers](https://github.com/Dharani2816/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Dharani2816/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Dharani2816/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Dharani2816/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Dharani2816/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Dharani2816/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Dharani2816/Leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -486,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Dharani2816/Leetcode/tree/master/0099-recover-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Dharani2816/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Dharani2816/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dharani2816/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Enumeration
