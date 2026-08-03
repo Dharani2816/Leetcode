@@ -10,15 +10,6 @@
  */
 class Solution {
 public:
-    // ListNode* middle(ListNode* list){
-    //     ListNode* slow = list;
-    //     ListNode* fast = list;
-    //     while(fast->next &&  fast->next->next){
-    //         slow = slow->next;
-    //         fast = fast->next->next;
-    //     }
-    //     return slow;
-    // }
     void insert(ListNode*&list,ListNode*&listHead,ListNode*&node){
         if(!list){
             list = node;
@@ -52,16 +43,6 @@ public:
         }
         return resultHead;
     }
-    // void mergeSort(ListNode*&list){
-    //     if(!list || !list->next) return;
-    //     ListNode* middleNode = middle(list);
-    //     ListNode* l1 = list;
-    //     ListNode* l2 = middleNode->next;
-    //     l1->next = nullptr;
-    //     mergeSort(l1);
-    //     mergeSort(l2);
-    //     list = merge(l1,l2);
-    // }
     ListNode* mergeKLists(vector<ListNode*>& lists) {
         if(lists.size() == 0) return nullptr;
         else if(lists.size() == 1) return lists[0];
