@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Dharani2816/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Dharani2816/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Dharani2816/Leetcode/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/Dharani2816/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Dharani2816/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Dharani2816/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Dharani2816/Leetcode/tree/master/0039-combination-sum) |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/Dharani2816/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Dharani2816/Leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Dharani2816/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0027-remove-element](https://github.com/Dharani2816/Leetcode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/Dharani2816/Leetcode/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Dharani2816/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Dharani2816/Leetcode/tree/master/0143-reorder-list) |
