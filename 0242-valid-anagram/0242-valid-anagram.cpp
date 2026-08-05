@@ -4,19 +4,19 @@ public:
         if (s.size() != t.size()) {
             return false;
         }
-        unordered_map<char, int> freq;
+        int freq[26] = {0};
         for (int i = 0; i < s.size(); i++) {
-            freq[s[i]]++;
+            freq[s[i]%97]++;
         }
         for (int i = 0; i < t.size(); i++) {
-            if (freq[t[i]]) {
-                freq[t[i]]--;
+            if (freq[t[i]%97]) {
+                freq[t[i]%97]--;
             } else {
                 return false;
             }
         }
         for (int i = 0; i < t.size(); i++) {
-            if (freq[t[i]] != 0) {
+            if (freq[t[i]%97] != 0) {
                 return false;
             }
         }
