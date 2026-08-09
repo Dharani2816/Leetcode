@@ -356,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Dharani2816/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Dharani2816/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Dharani2816/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0538-convert-bst-to-greater-tree](https://github.com/Dharani2816/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Dharani2816/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dharani2816/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dharani2816/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -379,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Dharani2816/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Dharani2816/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Dharani2816/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0538-convert-bst-to-greater-tree](https://github.com/Dharani2816/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Dharani2816/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dharani2816/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dharani2816/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -400,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Dharani2816/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Dharani2816/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Dharani2816/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0538-convert-bst-to-greater-tree](https://github.com/Dharani2816/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Dharani2816/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dharani2816/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
@@ -516,6 +519,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Dharani2816/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Dharani2816/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Dharani2816/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0538-convert-bst-to-greater-tree](https://github.com/Dharani2816/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dharani2816/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dharani2816/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Enumeration
