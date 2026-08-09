@@ -33,18 +33,16 @@ public:
             else parent->right = node;
         }
     }
-    void insertAll(TreeNode*&root,vector<int>&nums){
-        if(nums.size() == 0) return;
-        int mid = nums.size()/2;
+    void insertAll(TreeNode*&root,vector<int>&nums,int left,int right){
+        if(left > right) return;
+        int mid = (left+right)/2;
         insert(root,nums[mid]);
-        vector<int>n1(nums.begin(),nums.begin()+mid);
-        vector<int>n2(nums.begin()+(mid+1),nums.end());
-        insertAll(root,n1);
-        insertAll(root,n2);
+        insertAll(root,nums,left,mid-1);
+        insertAll(root,nums,mid+1,right);
     }
     TreeNode* sortedArrayToBST(vector<int>& nums) {
         TreeNode* root = nullptr;
-        insertAll(root,nums);
+        insertAll(root,nums,0,nums.size()-1);
         return root;
     }
 };
