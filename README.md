@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/Dharani2816/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Dharani2816/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Dharani2816/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Dharani2816/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Dharani2816/Leetcode/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dharani2816/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0137-single-number-ii](https://github.com/Dharani2816/Leetcode/tree/master/0137-single-number-ii) |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dharani2816/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Dharani2816/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Dharani2816/Leetcode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/Dharani2816/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Dharani2816/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/Dharani2816/Leetcode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Dharani2816/Leetcode/tree/master/0187-repeated-dna-sequences) |
@@ -389,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Dharani2816/Leetcode/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/Dharani2816/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Dharani2816/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Dharani2816/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
@@ -549,6 +552,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/Dharani2816/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Dharani2816/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Dharani2816/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Dharani2816/Leetcode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dharani2816/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dharani2816/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## String Matching
@@ -595,6 +599,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/Dharani2816/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Dharani2816/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Dharani2816/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Dharani2816/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Dharani2816/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Dharani2816/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Dharani2816/Leetcode/tree/master/0216-combination-sum-iii) |
