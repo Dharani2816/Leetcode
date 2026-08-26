@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/Dharani2816/Leetcode/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/Dharani2816/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/Dharani2816/Leetcode/tree/master/0645-set-mismatch) |
+| [0695-max-area-of-island](https://github.com/Dharani2816/Leetcode/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/Dharani2816/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/Dharani2816/Leetcode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dharani2816/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -414,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0538-convert-bst-to-greater-tree](https://github.com/Dharani2816/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Dharani2816/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dharani2816/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/Dharani2816/Leetcode/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -427,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/Dharani2816/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Dharani2816/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dharani2816/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/Dharani2816/Leetcode/tree/master/0695-max-area-of-island) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -559,6 +562,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Dharani2816/Leetcode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dharani2816/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dharani2816/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0695-max-area-of-island](https://github.com/Dharani2816/Leetcode/tree/master/0695-max-area-of-island) |
 ## String Matching
 |  |
 | ------- |
@@ -647,4 +651,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Dharani2816/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/Dharani2816/Leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
