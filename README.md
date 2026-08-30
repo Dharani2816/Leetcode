@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0493-reverse-pairs](https://github.com/Dharani2816/Leetcode/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/Dharani2816/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Dharani2816/Leetcode/tree/master/0506-relative-ranks) |
+| [0542-01-matrix](https://github.com/Dharani2816/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Dharani2816/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Dharani2816/Leetcode/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/Dharani2816/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -432,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/Dharani2816/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Dharani2816/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0404-sum-of-left-leaves](https://github.com/Dharani2816/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0542-01-matrix](https://github.com/Dharani2816/Leetcode/tree/master/0542-01-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dharani2816/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/Dharani2816/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Dharani2816/Leetcode/tree/master/0733-flood-fill) |
@@ -467,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Dharani2816/Leetcode/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/Dharani2816/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/Dharani2816/Leetcode/tree/master/0338-counting-bits) |
+| [0542-01-matrix](https://github.com/Dharani2816/Leetcode/tree/master/0542-01-matrix) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dharani2816/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Dharani2816/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Math
@@ -568,6 +571,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Dharani2816/Leetcode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dharani2816/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dharani2816/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0542-01-matrix](https://github.com/Dharani2816/Leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Dharani2816/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Dharani2816/Leetcode/tree/master/0733-flood-fill) |
 ## String Matching
