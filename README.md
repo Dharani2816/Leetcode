@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dharani2816/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Dharani2816/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Dharani2816/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Dharani2816/Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Dharani2816/Leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2951-find-the-peaks](https://github.com/Dharani2816/Leetcode/tree/master/2951-find-the-peaks) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Dharani2816/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/Dharani2816/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Dharani2816/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1710-maximum-units-on-a-truck](https://github.com/Dharani2816/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Dharani2816/Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3536-maximum-product-of-two-digits](https://github.com/Dharani2816/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
@@ -281,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1636-sort-array-by-increasing-frequency](https://github.com/Dharani2816/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1763-longest-nice-substring](https://github.com/Dharani2816/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Dharani2816/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Dharani2816/Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dharani2816/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Linked List
 |  |
@@ -473,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/Dharani2816/Leetcode/tree/master/0338-counting-bits) |
 | [0542-01-matrix](https://github.com/Dharani2816/Leetcode/tree/master/0542-01-matrix) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dharani2816/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Dharani2816/Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Dharani2816/Leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Math
 |  |
@@ -491,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1903-largest-odd-number-in-string](https://github.com/Dharani2816/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dharani2816/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Dharani2816/Leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Dharani2816/Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Dharani2816/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Dharani2816/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dharani2816/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -627,6 +632,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/Dharani2816/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Dharani2816/Leetcode/tree/master/0216-combination-sum-iii) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Dharani2816/Leetcode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Dharani2816/Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -669,4 +675,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Dharani2816/Leetcode/tree/master/0695-max-area-of-island) |
+## Combinatorics
+|  |
+| ------- |
+| [2597-the-number-of-beautiful-subsets](https://github.com/Dharani2816/Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 <!---LeetCode Topics End-->
