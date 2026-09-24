@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2951-find-the-peaks](https://github.com/Dharani2816/Leetcode/tree/master/2951-find-the-peaks) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Dharani2816/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3477-fruits-into-baskets-ii](https://github.com/Dharani2816/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dharani2816/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -502,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2597-the-number-of-beautiful-subsets](https://github.com/Dharani2816/Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Dharani2816/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Dharani2816/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dharani2816/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dharani2816/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
