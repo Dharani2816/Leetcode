@@ -477,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/Dharani2816/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Dharani2816/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Dharani2816/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Dharani2816/Leetcode/tree/master/0062-unique-paths) |
 | [0131-palindrome-partitioning](https://github.com/Dharani2816/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/Dharani2816/Leetcode/tree/master/0338-counting-bits) |
 | [0542-01-matrix](https://github.com/Dharani2816/Leetcode/tree/master/0542-01-matrix) |
@@ -489,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/Dharani2816/Leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Dharani2816/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Dharani2816/Leetcode/tree/main/0050-powx-n/) | Medium |
+| [0062-unique-paths](https://github.com/Dharani2816/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Dharani2816/Leetcode/tree/master/0066-plus-one) |
 | [0326-power-of-three](https://github.com/Dharani2816/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Dharani2816/Leetcode/tree/master/0342-power-of-four) |
@@ -686,5 +688,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Dharani2816/Leetcode/tree/master/0062-unique-paths) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/Dharani2816/Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 <!---LeetCode Topics End-->
