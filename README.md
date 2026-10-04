@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Dharani2816/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Dharani2816/Leetcode/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dharani2816/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0119-pascals-triangle-ii](https://github.com/Dharani2816/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Dharani2816/Leetcode/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/Dharani2816/Leetcode/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/Dharani2816/Leetcode/tree/master/0137-single-number-ii) |
@@ -484,6 +485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Dharani2816/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Dharani2816/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Dharani2816/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0119-pascals-triangle-ii](https://github.com/Dharani2816/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Dharani2816/Leetcode/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Dharani2816/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/Dharani2816/Leetcode/tree/master/0338-counting-bits) |
