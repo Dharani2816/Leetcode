@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3364-minimum-positive-sum-subarray](https://github.com/Dharani2816/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3477-fruits-into-baskets-ii](https://github.com/Dharani2816/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dharani2816/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dharani2816/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -520,6 +521,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3536-maximum-product-of-two-digits](https://github.com/Dharani2816/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dharani2816/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dharani2816/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Dharani2816/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Recursion
 |  |
 | ------- |
