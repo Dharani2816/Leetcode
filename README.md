@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2597-the-number-of-beautiful-subsets](https://github.com/Dharani2816/Leetcode/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Dharani2816/Leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2951-find-the-peaks](https://github.com/Dharani2816/Leetcode/tree/master/2951-find-the-peaks) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Dharani2816/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Dharani2816/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3477-fruits-into-baskets-ii](https://github.com/Dharani2816/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Dharani2816/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
